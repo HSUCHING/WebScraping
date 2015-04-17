@@ -1,0 +1,21 @@
+{
+  "name": "webscraping",
+  "version": "0.0.1",
+  "description": "WebScraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "request": "latest",
+    "cheerio": "latest",
+    "node-http-proxy":"latest",
+    "http-proxy":"latest"
+  },
+  "keywords": [
+    "Web",
+    "Scraping"
+  ],
+  "author": "Hsuching",
+  "license": "MIT"
+}
